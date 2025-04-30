@@ -1,0 +1,28 @@
+{
+  "name": "Next-Ethereum",
+  "version": "1.0.0",
+  "description": "A project integrating cryptocurrency and spirituality through the 7 Saints platform.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "wagmi": "latest",
+    "@rainbow-me/rainbowkit": "latest",
+    "@tanstack/react-query": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
